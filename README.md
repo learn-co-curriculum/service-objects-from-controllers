@@ -43,5 +43,5 @@ To solve the problem of a bloated controller we employ a technique named replace
 * [Cleaner Controllers with Service Objects](https://blog.engineyard.com/2014/keeping-your-rails-controllers-dry-with-services)
 * [Replace Method with method object](https://refactoring.com/catalog/replaceMethodWithMethodObject.html)
 * [RailsConf Replace Method with Method Objects](https://www.youtube.com/watch?v=ozWzehOEeuI)
-* [Replacing Methods with Method Objects Video] (https://www.youtube.com/watch?v=J4dlF0kcThQ)
+* [Replacing Methods with Method Objects Video](https://www.youtube.com/watch?v=J4dlF0kcThQ)
 <p class='util--hide'>View <a href='https://learn.co/lessons/service-objects-from-controllers'>Service Objects From Controllers</a> on Learn.co and start learning to code for free.</p>
